@@ -4,7 +4,7 @@
 
 The game is exclusively made for an online multiplayer experience, and hosted under the [Yume Nikki Online Project](https://ynoproject.net) website. Anyone can contribute to the project, as long as they respect the submission procedures and rules outlined in the #guidelines channel on Discord.
 
-![The Nexus](assets/nexus.png)
+![The Nexus](assets/nexus.webp)
 
 ## Table of Contents
 
@@ -37,7 +37,7 @@ The game is exclusively made for an online multiplayer experience, and hosted un
 
 ## What's a Developer? What's a Contributor?
 
-![Minnatsuki's bedroom](assets/bedroom.png)
+![Minnatsuki's bedroom](assets/bedroom.webp)
 
 There are two ways in which you can contribute to Collective Unconscious:
 
@@ -48,7 +48,7 @@ You will obtain the role of Contributor or Developer as soon as your content is 
 
 ## Becoming a Developer
 
-![The Debug room](assets/debug.png)
+![The Debug room](assets/debug.webp)
 
 ### How can I become a Developer?
 
@@ -68,7 +68,7 @@ You will obtain the role of Contributor or Developer as soon as your content is 
 7. **Send your submission in a compressed file** (.rar or .zip) to any @Spirit Guide (Manager)  when submissions are open. If it's too big for Discord's file limit, you can use Mediafire, Mega, or catbox.
 Here's an example of how the inside of your zipped file should look like (please sort them out properly in their respective folders!):
 
-![Submission files example](assets/update_tutorial.png)
+![Submission files example](assets/update_tutorial.webp)
 *The archive should contain your changelog and your submission folder, which should contain the game files.*
 
 8. **Be prepared for potential bug fixing.** You should have playtested your maps before sending them to us, but it is possible you missed some bugs. If so, a @Spirit Guide (Manager) might DM you about it to fix them. Sometimes we will fix those ourselves, and sometimes you will have to take on that job and send your submission again. Be ready for it!
@@ -79,7 +79,7 @@ If you have any more questions or need clarifications on the process, let us kno
 
 Thank you and good luck, we are all looking forward to see what you create.
 
-![Minnatsuki chilling in the Nexus](assets/lake.png)
+![Minnatsuki chilling in the Nexus](assets/lake.webp)
 
 ### The Dev Checklist
 
@@ -170,7 +170,7 @@ At any time, a developer may update their Map and Asset Policy to specify an alt
 
 ## Developing - Connecting Maps
 
-![Minnastuki standing on the Nexus bridge](assets/bridge.png)
+![Minnastuki standing on the Nexus bridge](assets/bridge.webp)
 
 ### What guarantees that I can connect my map to another map?
 
@@ -180,7 +180,7 @@ Collective Unconscious uses a system that helps you identify if a connection is 
 
 If a path is blocked without any of these indications, you have two options: either check the @Zone Weaver (Developer)'s map policies, or assume it is a closed connection (unless it is a Nexus world).
 
-![Connection signs](assets/connection_signs.png)
+![Connection signs](assets/connection_signs.webp)
 *Closed (X) and Open (O) connection signs*
 
 ### How do I submit an open connection?
@@ -201,7 +201,7 @@ Simply place an open connection sign in your world at the desired location and *
 
 5. If you no longer wish to claim an open connection, **contact @nacremoon to have the request removed**.
 
-![The Treehouse](assets/treehouse.png)
+![The Treehouse](assets/treehouse.webp)
 
 ### How does the Connections document work?
 
@@ -235,7 +235,7 @@ The open connection process has been formalized in order to avoid conflicts on c
 
 ## Becoming a Contributor - Using the Repository
 
-![Minnatsuki sitting on the treehouse balcony](assets/balcony.png)
+![Minnatsuki sitting on the treehouse balcony](assets/balcony.webp)
 
 ### How can I become a Contributor?
 
@@ -249,7 +249,7 @@ There are two ways of becoming a contributor:
 
 > Please pick a contributor name that you will feel comfortable keeping, as changing it is a **laborious process**.
 
-![Minnatsuki sitting on a bench in the Nexus](assets/bench.png)
+![Minnatsuki sitting on a bench in the Nexus](assets/bench.webp)
 
 ### What's a repository?
 
@@ -267,7 +267,7 @@ The repository is a database containing a collection of various assets (music, s
 
 ## Contributing a Book Cover
 
-![The Book](assets/book.png)
+![The Book](assets/book.webp)
 
 ### What is a Book Cover?
 
@@ -288,7 +288,7 @@ Your cover image will be animated by a script to match the book's opening animat
 - **Grey:** Only visible on thumbnails.
 
 ![Cover image specifications](assets/cover-regions_1.png)
-![Cover image specifications](assets/cover-example.png)
+![Cover image specifications](assets/cover-example.webp)
 
 To make the cover design look nice with the notebook rings, we recommend avoiding bright and saturated tones in the leftmost edge of the cover design. A subtle gradient or side pattern can help if your design uses brighter tones.
 
@@ -306,7 +306,7 @@ Fill in the **[Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe3zY1jmUGh
 
 ## Contributing Vending Machine Items
 
-![Minnatsuki sitting on a bench in Pale Park, next to a vending machine](assets/pale_park_vm.png)
+![Minnatsuki sitting on a bench in Pale Park, next to a vending machine](assets/pale_park_vm.webp)
 
 ### What are Vending Machine Items?
 
@@ -326,7 +326,7 @@ This process is here to prevent overlapping of vending machine item IDs in case 
 
 ## Contributing Menu Themes
 
-![Menu theme selection in the Book](assets/menu_themes.png)
+![Menu theme selection in the Book](assets/menu_themes.webp)
 
 ### What are Menu Themes?
 
@@ -380,7 +380,7 @@ The reservation process is here to prevent overlapping of Menu Theme IDs in case
 
 ## Contributing Terrains
 
-![Minnatsuki chilling in the Nexus - The Return](assets/lake.png)
+![Minnatsuki chilling in the Nexus - The Return](assets/lake.webp)
 
 ### What are Terrains?
 
@@ -413,7 +413,7 @@ Below is an example of how your entry should be formatted:
 
 > ⚠️ It is important that here, you **do not set terrain sounds using the in-engine footstep sound picker**. Terrain sounds are done through the Coord/Step Calc CE instead in order to easily allow effects (eg. Lumen and Spectral) to have custom step sounds.
 
-![Terrain IDs](assets/terrain_edit_menu.png)
+![Terrain IDs](assets/terrain_edit_menu.webp)
 
 4. Make sure you playtest your footstep sounds to see if their **volume level is well adjusted** in comparison to other footstep sounds/menu sounds!
 
@@ -423,7 +423,7 @@ This reservation process is here to prevent overlapping of terrain IDs in case s
 
 ## Contributing Pseudo-eidola
 
-![Minnatsuki wearing a pseudo-eidolon](assets/wearing_pseudo.png)
+![Minnatsuki wearing a pseudo-eidolon](assets/wearing_pseudo.webp)
 
 ### What are Pseudo-eidola?
 Pseudo-eidola (often referred to as pseudos) are cosmetic changes to Minnatsuki outside the core supported eidola and boats and not encompassed in [custom protagonist sprites](https://docs.google.com/document/d/1eo9GmPM5MAAsaz1KWY_RLCBH8NZ1pUcQx6J3LlVsnMQ/edit?pli=1&tab=t.0#heading=h.mk2du8auk1jy). These can be equipped via any event but are commonly seen as outfits the player can pick up in the Spirit World. Pseudos can optionally have an action on the 1 key (this is added by modifying CE 13: Effect Action).
@@ -447,7 +447,7 @@ Make sure to thoroughly playtest all actions (sitting on benches, climbing ladde
 
 ## Contributing Visages
 
-![Minnatsuki accessing the Visage menu](assets/visage_menu.png)
+![Minnatsuki accessing the Visage menu](assets/visage_menu.webp)
 
 ### What are Visages?
 Visages are [pseudo-eidola](#contributing-pseudo-eidola) that can be equipped via the Visage eidolon at any time.
